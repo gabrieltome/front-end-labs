@@ -1,5 +1,5 @@
 # Front End Labs
 
-This repository is to help my studies in Front End Development
+This repository is to help my studies on Front End Development
 
 Resources
